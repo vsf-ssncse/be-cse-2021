@@ -1,0 +1,96 @@
+* <<<PE601>>> BUSINESS ANALYTICS
+:properties:
+:author: Dr. K. Lekshmi and Ms. A. Beaula
+:date: 
+:end:
+
+#+begn_comment
+
+#+end_comment
+
+** CO PO MAPPING :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 |  PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |  K5   |   K3 |   K6 |
+| CO1            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   1   |    2 |    1 |
+| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    1 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    1 |
+| CO4            | K4 |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    2 |
+| CO5            | K3 |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    1 |
+| Score          |    |  14 |  12 |   9 |   9 |   6 |   0 |   0 |   5 |   5 |    5 |    0 |   9   |   14 |    6 |
+| Course Mapping |    |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    2 |
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- Discuss the role of basic and advanced data analytics in Healthcare systems
+- Describe the statistical and computational methods and techniques used for data analytics in EHR, Image and Sensor data  
+- Describe the statistical and computational methods and techniques used for data analytics in Signal, Genome and Text Data 
+- Describe the Advanced Data Analytics techniques used to analyze and interpret healthcare data effectively in Healthcare Organizations
+- Identify techniques to communicate insights gained from data analysis in Healthcare Applications
+
+
+
+
+#+startup: showall
+
+{{{unit}}}
+|UNIT I | An Introduction to Healthcare Data Analytics | 9 |(T1:ch1)
+Introduction -- Healthcare Data Sources and Basic Analytics -- Advanced Data Analytics for Healthcare --
+Applications and Practical Systems for Healthcare -- Resources for Healthcare Data Analytics
+
+{{{unit}}}
+|UNIT II | Healthcare Data Sources and Basic Analytics: Part I | 9 | (T1:ch2-4)
+Electronic Health Records: A Survey: Components of EHR -- Coding Systems -- Challenges of Using EHR Data -- Phenotyping Algorithms; 
+Biomedical Image Analysis: Biomedical Imaging Modalities -- Object Detection -- Image Segmentation -- Image Registration -- Feature Extraction; 
+Mining of Sensor Data in Healthcare: A Survey: Mining Sensor Data in Medical Informatics: Scope and Challenges -- Challenges in Healthcare Data Analysis -- 
+Sensor Data Mining Applications -- Nonclinical Healthcare Applications.
+
+{{{unit}}}
+|UNIT III | Healthcare Data Sources and Basic Analytics: Part II | 9 |(T1:ch5-7)
+Biomedical Signal Analysis: ECG Signal Analysis -- Denoising of Signals -- Multivariate Biomedical Signal Analysis -- 
+Cross-Correlation Analysis; Genomic Data Analysis: Genomic Data Generation -- Methods and Standards for Genomic Data Analysis; 
+Natural Language Processing and Data Mining for Clinical Text:  Mining Information from Clinical Text -- Challenges of Processing Clinical Reports -- 
+Clinical Applications: EHR and Decision Support.
+
+{{{unit}}}
+|UNIT IV | Advanced Data Analytics for Healthcare | 9 |(T1:ch10-13)
+A Review of Clinical Prediction Models: Basic Statistical Prediction Models -- Alternative Clinical Prediction Models -- 
+Survival Models -- Evaluation and Validation; Temporal Data Mining for Healthcare Data: Association Analysis -- 
+Temporal Pattern Mining -- Sensor Data Analysis -- Other Temporal Modeling Methods; Visual Analytics for Healthcare: 
+Introduction to Visual Analytics and Medical Data Visualization -- Visual Analytics in Healthcare; 
+Predictive Models for Integrating Clinical and Genomic Data: Issues and Challenges in Integrating Clinical and Genomic Data --
+Different Types of Integration -- Different Goals of Integrative Studies -- Validation 
+
+{{{unit}}}
+|UNIT V | Applications and Practical Systems for Healthcare | 9 | (T1:Ch17-19)
+Fraud Detection in Healthcare: Definition and Types of Healthcare Fraud -- Identifying Healthcare Fraud from Data -- 
+Knowledge Discovery-Based Solutions for Identifying Fraud; Data Analytics for Pharmaceutical Discoveries: Introduction -- Chemical and Biological Data -- 
+Spontaneous Reporting Systems (SRSs); Clinical Decision Support Systems: Various Types of CDSS, Diagnostic Decision Support.
+
+
+\hfill *Total Periods: 45*
+
+#+begin_comment
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Understand the basic and advanced data analytics in public health (K2)
+- Design data models that integrate patient data from multiple sources to create
+comprehensive, patient-centered views of data using analytics tools for EHR, Image and Sensor Data (K3)
+- Design data models that integrate patient data from multiple sources to create
+comprehensive, patient-centered views of data using analytics tools for Signal, Genome and Text Data.(K3)
+- Discover meaningful patterns and trends in advanced data analytics systems. (K4)
+- Apply descriptive and inferential methodologies according to the type of study
+design in Healthcare practical systems (K3).
+#+end_comment
+ 
+** TEXT BOOKS
+1. Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data Analytics'', CRC Press, Taylor & Francis Group, LLC., 2015 
+
+REFERENCE BOOKS
+1. Trevor L. Strome, ``Healthcare Analytics for Quality and Performance Improvement'', John Wiley & Sons, 2013  
+2. Sergio Consoli, Diego Reforgiato Recupero and Milan Petkovi, ``Data Science for Healthcare Methodologies and Applications'', Springer Nature Switzerland AG., 2019
+3. Joseph M. Woodside , ``Applied Health Analytics and Informatics Using SAS '', SAS Institute, O'Reilly, 2018  
+
