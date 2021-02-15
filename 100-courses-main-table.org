@@ -140,7 +140,6 @@
 #+TBLFM: @93$5..@93$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
 #+TBLFM: @94$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
 
-
 |    |       |                                           |     |     |   |   |   |   |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 | No | Code  | Title                                     | Cat | Hrs | L | T | P | C |
@@ -157,7 +156,7 @@
 |    |       | *Professional Elective 2*                 |     |     |   |   |   |   |
 |  1 | PE201 | Cloud Computing                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE202 | Big Data Management                       | PE  |   3 | 3 | 0 | 0 | 3 |
-|  3 | PE203 | Software Project Management               | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE203 | Software Configuration Management         | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE204 | Probablistic Graphical Models             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE205 | Time Series Analysis and Forecasting      | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE206 | Cyber Forensics                           | PE  |   3 | 3 | 0 | 0 | 3 |
@@ -166,7 +165,7 @@
 |    |       | *Professional Elective 3*                 |     |     |   |   |   |   |
 |  1 | PE301 | Bayesian Data Analysis (AI&DS)            | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE302 | Internet of Things                        | PE  |   3 | 3 | 0 | 0 | 3 |
-|  3 | PE303 | Service Oriented Architecture             | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE303 | Object Oriented Analysis and Design       | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE304 | Data Warehousing and Data Mining (BDMA)   | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE305 | Deep Learning                             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE306 | Multicore Architectures and GPU Computing | PE  |   3 | 3 | 0 | 0 | 3 |
@@ -193,7 +192,7 @@
 |    |       | *Professional Elective 6*                 |     |     |   |   |   |   |
 |  1 | PE601 | Business Analytics                        | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE602 | Formal System Verification                | PE  |   3 | 3 | 0 | 0 | 3 |
-|  3 | PE603 | Object Oriented Analysis and Design       | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE603 | Service Oriented Architecture             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE604 | Information Retrieval Techniques (BDMA)   | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE605 | Reinforcement Learning                    | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE606 | Software Defined Networks                 | PE  |   3 | 3 | 0 | 0 | 3 |
@@ -209,4 +208,3 @@
 |  5 | OE5   | Machine Learning Applications             | OE  |   4 | 2 | 0 | 2 | 3 |
 |  6 | OE6   | Web Technology                            | OE  |   4 | 2 | 0 | 2 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
-
