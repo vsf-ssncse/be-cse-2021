@@ -1,7 +1,7 @@
 * <<<602>>> COMPILER DESIGN
 # DESIGN AND IMPLEMENTATION OF COMPILERS
 :properties:
-:author: Dr. B. Bharathi and Dr. B. Prabavathy
+:author: Dr. B. Bharathi and Dr. B. Prabavathy, Milton
 :end:
 
 #+begin_comment
