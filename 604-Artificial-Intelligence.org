@@ -102,10 +102,10 @@ After the completion of this course, students will be able to:
    McGraw Hill, 2014.
       
 ** REFERENCES
-1. Dawn W Patterson, ``Introduction to Artificial Intelligence and
-   Expert Systems'', 1st Edition, Pearson Education India, 2015.
-2. Elaine Rich, Kevin Knight, ``Artificial Intelligence'', 2nd
+1. Elaine Rich, Kevin Knight, ``Artificial Intelligence'', 2nd
    Edition, Tata McGraw-Hill, 2003.
+2. Dawn W Patterson, ``Introduction to Artificial Intelligence and
+   Expert Systems'', 1st Edition, Pearson Education India, 2015.
 3. Andreas Muller, Sarah Guido, ``Introduction to Machine Learning
    with Python: A Guide for Data Scientists'', Shroff/O'Reilly, 1st
    edition, 2016.
