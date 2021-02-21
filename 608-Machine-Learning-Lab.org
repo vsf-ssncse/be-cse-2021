@@ -1,6 +1,6 @@
 * <<<608>>> MACHINE LEARNING LAB
 :properties:
-:author: Ms. S. Manisha and Dr. K. Valli Devi
+:author: Milton
 :date:
 :end:
 

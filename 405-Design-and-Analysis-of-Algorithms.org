@@ -24,10 +24,10 @@ algorithms.
 
 {{{unit}}}
 |UNIT II|BRUTE FORCE AND DIVIDE AND CONQUER |8| 
-Brute Force: String matching -- Closest-pair problem; Exhaustive
-search: Traveling salesman problem -- Knapsack problem.  Divide and
-Conquer: Mergesort -- Quicksort -- Multiplication of large integers
-and Strassen's matrix multiplication.
+# Brute Force: String matching -- Closest-pair problem; 
+Exhaustive search: Traveling salesman problem -- Knapsack problem.
+Divide and Conquer: Mergesort -- Quicksort -- Multiplication of large
+integers and Strassen's matrix multiplication.
 
 {{{unit}}}
 |UNIT III |DYNAMIC PROGRAMMING AND GREEDY TECHNIQUE |9| 
