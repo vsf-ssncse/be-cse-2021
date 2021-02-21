@@ -109,8 +109,9 @@ After the completion of this course, students will be able to:
 3. Andreas Muller, Sarah Guido, ``Introduction to Machine Learning
    with Python: A Guide for Data Scientists'', Shroff/O'Reilly, 1st
    edition, 2016.
+5. Prateek Joshi, ``Artificial Intelligence with Python'', 1st
+   edition, Packt Publishing Limited, 2017.
 4. David Poole, Alan Mackworth, ``Artificial Intelligence : Foundation
    of Computational Agents'', 2nd Edition, Cambridge University
    Press, 2017.
-5. Prateek Joshi, ``Artificial Intelligence with Python'', 1st
-   edition, Packt Publishing Limited, 2017.
+
