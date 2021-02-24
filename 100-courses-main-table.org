@@ -140,6 +140,9 @@
 #+TBLFM: @93$5..@93$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
 #+TBLFM: @94$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
 
+
+#+latex: \newpage
+#+attr_latex: :environment longtable :align @{}p{.04\textwidth}p{.06\textwidth}p{.5\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}p{.05\textwidth}
 |    |       |                                           |     |     |   |   |   |   |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 | No | Code  | Title                                     | Cat | Hrs | L | T | P | C |
@@ -167,7 +170,7 @@
 |  2 | PE302 | Internet of Things                        | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE303 | Object Oriented Analysis and Design       | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE304 | Data Warehousing and Data Mining (BDMA)   | PE  |   3 | 3 | 0 | 0 | 3 |
-|  5 | PE305 | Deep Learning                             | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE305 | Deep Learning Techniques                  | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE306 | Multicore Architectures and GPU Computing | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE307 | Network and Server Security               | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
@@ -178,7 +181,7 @@
 |  4 | PE404 | Computer Vision                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE405 | Blockchain Technologies                   | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE406 | Embedded systems                          | PE  |   3 | 3 | 0 | 0 | 3 |
-|  7 | PE407 | Graphics and Multimedia                   | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE407 | Computer Graphics and Multimedia          | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 5*                 |     |     |   |   |   |   |
 |  1 | PE501 | Bioinformatics                            | PE  |   3 | 3 | 0 | 0 | 3 |
