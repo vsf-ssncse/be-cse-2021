@@ -1,6 +1,6 @@
 * <<<206>>> FOUNDATIONS OF DATA SCIENCE
 :properties:
-:author: Ms. S. Rajalakshmi  and Dr. J. Bhuvana
+:author: Ms. S. Rajalakshmi  and Dr. J. Bhuvana and Milton
 :date: 
 :end:
 
