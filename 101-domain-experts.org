@@ -1,0 +1,76 @@
+| S.No | Semester | Subject                                   | Faculty   |
+|------+----------+-------------------------------------------+-----------|
+|    1 | 1        | Problem Solving and Programming in Python | PM, HSH   |
+|    2 | 2        | Foundations of Data Science               | SR, YVL   |
+|    3 | 2        | Engineering Fundamentals and Practices    | RK, RSM   |
+|    4 | 2        | EFP Lab                                   | RK, RSM   |
+|    5 | 3        | Digital Principles and System Design      | DVVP, ADS |
+|    6 | 3        | Data Structures                           | HSH, MS   |
+|    7 | 3        | Object Oriented Programming               | BP, BB    |
+|    8 | 4        | Computer Organization and Architecture    | KRS, KL   |
+|    9 | 4        | Operating Systems                         | JB, SLP   |
+|   10 | 4        | Design and Analysis of Algorithms         | VB, SK    |
+|   11 | 4        | Database Management Systems (EFP) (T+P)   | BSK, PM   |
+|   12 | 5        | Computer Networks                         | SVJ, NS   |
+|   13 | 5        | Microprocessors and Interfacing           | KRS, ADS  |
+|   14 | 5        | Theory of Computation                     | AB, SK    |
+|   15 | 5        | Software Engineering                      | AC, ADS   |
+|   16 | 6        | Internet Programming                      | BP, VFS   |
+|   17 | 6        | Data Security and Privacy                 | VB, JB    |
+|   18 | 6        | Machine Learning (EFP) (T+P)              | SR, MS    |
+|   19 | 6        | Artificial Intelligence                   | SK, TTM   |
+|   20 | 7        | Distributed Systems                       | HSH, YVL  |
+|   21 | 7        | Software Architecture                     | AC, KVD   |
+|   22 | 7        | Compiler Design                           | SK, SSA   |
+|   23 | OE       | Introduction to Big Data Analytics        | JS, RK    |
+|   24 | OE       | Machine Learning Applications             | SR, MS    |
+|   25 | OE       | Object Oriented Programming Techniques    | BP, BB    |
+|   26 | OE       | Problem Solving and Programming in C      | MS, KVD   |
+|   27 | OE       | Web Technology                            | BP, VSF   |
+|   28 | OE       | Introduction to Data Structures           | HSH, MS   |
+|   29 | PE       | Big Data Technologies                     | JS, YVL   |
+|   30 | PE       | Big Data Analytics                        | JS, RK    |
+|   31 | PE       | Cloud Computing                           | NS, YVL   |
+|   32 | PE       | Big Data Management                       | JS, YVL   |
+|   33 | PE       | Bayesian Data Analysis                    | ADS, RSM  |
+|   34 | PE       | Internet of Things                        | KRS, KM   |
+|   35 | PE       | Healthcare  Analytics                     | AB, KL    |
+|   36 | PE       | Bioinformatics                            | SK, PM    |
+|   37 | PE       | Business Analytics                        | GR, JS    |
+|   38 | PE       | Image Processing and Analysis             | RP, PM    |
+|   39 | PE       | Probablistic Graphical Models             | RSM, SR   |
+|   40 | PE       | Statistical Inference                     | RSM       |
+|   41 | PE       | Time Series Analysis and Forecasting      | HSH, VSF  |
+|   42 | PE       | Data Warehousing and Data Mining          | RP, SR    |
+|   43 | PE       | Deep Learning Techniques                  | DT, BSK   |
+|   44 | PE       | Social Network Analysis                   | GR, VSF   |
+|   45 | PE       | Computer Vision                           | RP, PM    |
+|   46 | PE       | Natural Language Processing               | DT, BSK   |
+|   47 | PE       | Robotics                                  | KRS, ADS  |
+|   48 | PE       | Speech Processing and Synthesis           | BB        |
+|   49 | PE       | Information Retrieval Techniques          | DT, GR    |
+|   50 | PE       | Reinforcement Learning                    | MS, SR    |
+|   51 | PE       | Software Testing                          | KM, AC    |
+|   52 | PE       | Software Configuration Management         | AC        |
+|   53 | PE       | Object Oriented Analysis and Design       | SM, KVD   |
+|   54 | PE       | User Experience Design                    | SM, YVL   |
+|   55 | PE       | Agile Methodologies                       | SSA, KM   |
+|   56 | PE       | Formal System Verification                | TTM, RSM  |
+|   57 | PE       | Service Oriented Architecture             | KVD, VSF  |
+|   58 | PE       | Cryptographic Techniques                  | VB, JB    |
+|   59 | PE       | Ethical Hacking                           | VB, NS    |
+|   60 | PE       | Cyber forensics                           | AC, SSA   |
+|   61 | PE       | Wireless and Adhoc Networks               | VSF, SVJ  |
+|   62 | PE       | Multicore Architectures and GPU Computing | DVVP, ADS |
+|   63 | PE       | Network and Server Security               | NS, VB    |
+|   64 | PE       | Blockchain Technologies                   | JS, NS    |
+|   65 | PE       | Mobile Computing                          | VSF, AB   |
+|   66 | PE       | Mobile and Wireless Security              | AB, JB    |
+|   67 | PE       | Software Defined Networks                 | NS, HSH   |
+|   68 | PE       | Functional Programming                    | RSM, RK   |
+|   69 | PE       | Embedded Systems                          | KRS, HSH  |
+|   70 | PE       | Computer Graphics and Multimedia          | NS, SLP   |
+|   71 | PE       | Parallel Algorithms                       | RSM, VB   |
+|   72 | PE       | Logic Programming                         | DT, KL    |
+|   73 | PE       | Advanced Database Management Systems      | BSK, PM   |
+#+tblfm: $1=@#-1
