@@ -1,12 +1,11 @@
 * <<<PE603>>> OBJECT ORIENTED ANALYSIS AND DESIGN
 :properties:
-:author: Dr. K. Valli Devi and Ms. S. Manisha
+:author: Dr. K. Valli Devi and Dr. S. Manisha
 :date:
 :end:
 
 #+begin_comment
-- 1. No changes from AU 2017.
-- 2. Five Course outcomes specified and aligned with units
+1. Five Course outcomes specified and aligned with units
 
 #+end_comment
 
