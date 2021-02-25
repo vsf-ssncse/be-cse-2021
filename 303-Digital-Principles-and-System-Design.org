@@ -1,6 +1,6 @@
 * <<<303>>> DIGITAL PRINCIPLES AND SYSTEM DESIGN
 :properties:
-:author: Ms. S. Angel Deborah and Mr. K. R. Sarath Chandran
+:author: Dr.D. Venkatavara Prasad and Ms. S. Angel Deborah 
 :date:
 :end:
 
