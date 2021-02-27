@@ -1,6 +1,6 @@
 ﻿* <<<PE402>>> USER EXPERIENCE DESIGN
 :properties:
-:author: Dr. A. Chamundeswari and Dr. K. Madheswari 
+:author: Dr. S. Manisha and Dr. Y.V. Lokeswari
 :end:
 
 #+startup: showall
