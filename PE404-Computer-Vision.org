@@ -103,7 +103,7 @@ After the completion of this course, students will be able to:
 - Analyse the segmentation methods and apply in real time applications
   (K3)
 - Understand and analyse the feature extraction and object recognition
-  methods (K3).
+  methods (K4).
    
 ** TEXT BOOKS
 1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
