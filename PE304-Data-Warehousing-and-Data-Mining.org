@@ -72,7 +72,7 @@ Upon the completion of the course the students should be able to:
 - Apply suitable pre-processing techniques (K3)
 - Apply frequent pattern and association rule mining techniques for data analysis (K3)
 - Apply appropriate classification techniques for data analysis (K3)
-- Apply clustering techniques using appropriate tools (K3).
+- Apply clustering techniques using appropriate tools (K4).
 
 ** TEXT BOOKS
 1. Jiawei Han, Micheline Kamber, ``Data Mining Concepts and Techniques'', 3rd Edition, Elsevier, 2012.
