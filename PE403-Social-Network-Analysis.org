@@ -94,27 +94,19 @@ After the completion of this course, students will be able to:
 
 
 ** TEXTBOOKS
-1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
-   Springer, 2007. (Unit I)
-2. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
+
+1. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
    Press, 1994. (Unit I and Unit II)
-3. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
-4. Borko Furht, ``Handbook of Social Network Technologies and
+2. Borko Furht, ``Handbook of Social Network Technologies and
    Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
 
-      
 ** REFERENCES
-1. John Scott, ``Social Network Analysis'', 4th Edition, SAGE
-   Publications, 2017.
-2. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson,
-   ``Analyzing Social Networks'', SAGE Publications, 2nd
-   Edition, 2018.
-3. Robert A Hanneman, Mark Riddle, ``Introduction to social network
-   methods'', University of California, Riverside, 2005.
-4. Charles Kadushin, ``Understanding Social Networks: Theories,
-   Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
-   University Press, 2012.
-5. Guandong Xu ,Yanchun Zhang, Lin Li, ``Web Mining and Social
-   Networking – Techniques and applications'', 1st Edition
-   Springer, 2011.
+
+1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
+   Springer, 2007. (Unit I)
+2. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
+3. Edward L. Platt, ``Network Science with Python and NetworkX Quick Start Guide: Explore and Visualize Network Data Effectively'',Packt Publishing, 2019. 
+2. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson, ``Analyzing Social Networks'', SAGE Publications, 2nd Edition, 2018.
+4. Charles Kadushin, ``Understanding Social Networks: Theories, Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford University Press, 2012.
+
 
