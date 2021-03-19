@@ -27,19 +27,20 @@
 #+BEGIN_COMMENT
   Course objectives changed
   Course Outcomes changed
-  Text Book added
+  New Book added
   CO-PO Mapping updated
+  No. of hours changed reflecting the depth of the syllabus
 #+END_COMMENT
 
 ** COURSE OBJECTIVES
 - Understand the Fundamentals of social network analysis (SNA)
 - Represent social network formally 
 - Apply Community detection algorithms to Social Networks
-- Apply SNA tools to work with SNA algorithms
-- Make use of visualization tools to visualize Social Network 
+- Use SNA tools to work with SNA algorithms
+- Use visualization tools to visualize Social Network 
 
 {{{unit}}}
-|UNIT I | INTRODUCTION | 9 |
+|UNIT I | INTRODUCTION | 8 |
 Social Network Analysis: Development of social network analysis -- Key concepts and measures in network analysis -- Electronic Sources for
 Network Analysis: Electronic discussion networks -- Blogs and online communities -- Web-based networks -- Social Network Data: Introduction --
 Boundary specification and sampling -- Types of networks -- Network data -- Measurement and collection.
@@ -50,7 +51,7 @@ Notations for Social Networks: Graph theoretic notations -- Sociometric notation
 matrices.
 
 {{{unit}}}
-|UNIT III | COMMUNITY DETECTION METHODOLOGIES, APPLICATIONS | 9 |
+|UNIT III | COMMUNITY DETECTION METHODOLOGIES, APPLICATIONS | 10 |
 Introduction -- Definition of communities -- Evaluating communities -- Methodologies of Network Community Mining: Optimization based
 algorithms -- Heuristic methods -- Other methods -- Applications of community mining algorithms -- Multi-Relational characterization of
 dynamic social network communities.
@@ -79,7 +80,7 @@ After the completion of this course, students will be able to:
 - Explain Social network concepts, measures and data (K2)
 - Interpret social networks mathematically (K2)
 - Apply various community detection algorithms to Social networks (K3)
-- Apply SNA tools for analysing social networks (K3)  
+- Utilize SNA tools for analysing social networks (K3)  
 - Make use of Visualization tools to social networks (K3)
 
 
